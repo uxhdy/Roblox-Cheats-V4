@@ -5,14 +5,14 @@ Features
 Aimbot
 ESP / Visuals
 Speed / Fly / Misc movement
-Silent aim (if included)
+Silent aim 
 Configurable GUI
 
 Requirements
 Windows 10/11
 Latest Roblox version
-Executor / injector (if external)
-.NET Runtime or Visual C++ Redistributables (depending on your build)
+Executor / injector
+.NET Runtime or Visual C++ Redistributables
 
 Installation
 Download the latest release
