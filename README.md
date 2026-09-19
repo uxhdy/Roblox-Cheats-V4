@@ -26,11 +26,3 @@ Usage
 Open menu with INSERT (or your bound key)
 Toggle features in the UI
 Save config if available
-
-Building (source)
-```bash
-Adjust to your actual setup
-Example for C++ / CMake
-mkdir build && cd build
-cmake .. -A x64
-cmake --build . --config Release
